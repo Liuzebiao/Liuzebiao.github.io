@@ -323,6 +323,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="NewTV",游戏风云
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
+#EXTINF:-1 tvg-id="第一卫视" tvg-name="第一卫视" tvg-logo="https://live.fanmingming.com/tv/第一卫视.png" group-title="NewTV",第一卫视
+http://play2.one-tv.com/live/onetv.m3u8
 
 
 
@@ -365,5 +367,107 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 
 
-#EXTINF:-1 tvg-name="再次重逢的世界" tvg-logo="" group-title="热播电视剧",再次重逢的世界
-https://cdn23.fhdv.net/?path=fps/202409/zaicizhongfengdeshijie/01/index&name=%E5%86%8D%E6%AC%A1%E9%87%8D%E9%80%A2%E7%9A%84%E4%B8%96%E7%95%8C%C2%B7%E7%AC%AC01%E9%9B%86
+#EXTINF:-1 tvg-name="BBC News" group-title="国际频道",BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-name="CNA" group-title="国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="CNN Fast" group-title="国际频道",CNN Fast
+https://i.mjh.nz/discovery-ptcn.m3u8
+#EXTINF:-1 tvg-name="CBC News" group-title="国际频道",CBC News
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+#EXTINF:-1 tvg-name="NBC News Now" group-title="国际频道",NBC News Now
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212
+#EXTINF:-1 tvg-name="ABC News Live" group-title="国际频道",ABC News Live
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 tvg-name="WionNews" group-title="国际频道",WionNews
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-name="Sky News" group-title="国际频道",Sky News
+https://i.mjh.nz/sky-news-now.m3u8
+#EXTINF:-1 tvg-name="AXS TV Now" group-title="国际频道",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="Newsmax" group-title="国际频道",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="CBN News" group-title="国际频道",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-name="RT News" group-title="国际频道",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="Africa News" group-title="国际频道",Africa News
+https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" group-title="国际频道",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="Arirang" group-title="国际频道",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-name="Love Nature" group-title="国际频道",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" group-title="国际频道",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 tvg-name="Kids TV" group-title="国际频道",Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Fight Network" group-title="国际频道",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="Wild Earth" group-title="国际频道",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-name="Trace Sports" group-title="国际频道",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="SportsGrid" group-title="国际频道",SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RT Documentary" group-title="国际频道",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="Taiwan Plus" group-title="国际频道",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-name="ComedyDynamics" group-title="国际频道",ComedyDynamics
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" group-title="国际频道",BBC Earth
+https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
+#EXTINF:-1 tvg-name="History" group-title="国际频道",History
+https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+#EXTINF:-1 tvg-name="TED Conference" group-title="国际频道",TED Conference
+https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ted Talks " group-title="国际频道",Ted Talks 
+https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Graham Norton Show" group-title="国际频道",The Graham Norton Show
+https://i.mjh.nz/discovery-ptgn.m3u8
+#EXTINF:-1 tvg-name="Mytime" group-title="国际频道",Mytime
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="La LA Life " group-title="国际频道",La LA Life 
+https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+#EXTINF:-1 tvg-name="MovieDome" group-title="国际频道",MovieDome
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade " group-title="国际频道",Tastemade 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="Yu-Gi-Oh " group-title="国际频道",Yu-Gi-Oh 
+https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ION Plus" group-title="国际频道",ION Plus
+https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+#EXTINF:-1 tvg-name="Today Allday" group-title="国际频道",Today Allday
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
+#EXTINF:-1 tvg-name="Museum" group-title="国际频道",Museum
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="LoveStories" group-title="国际频道",LoveStories
+https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel XP" group-title="国际频道",Travel XP
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ondemand China" group-title="国际频道",Ondemand China
+https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Young Hollywood" group-title="国际频道",Young Hollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="Food" group-title="国际频道",Food
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MovieSphere" group-title="国际频道",MovieSphere
+https://i.mjh.nz/discovery-ptms.m3u8
+#EXTINF:-1 tvg-name="Rakuten Viki " group-title="国际频道",Rakuten Viki 
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Shows " group-title="国际频道",Rakuten TV Shows 
+https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Comedy" group-title="国际频道",Rakuten Comedy
+https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Action" group-title="国际频道",Rakuten Action
+https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Thriller" group-title="国际频道",Rakuten Thriller
+https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten British Films" group-title="国际频道",Rakuten British Films
+https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Global Fashion Channel" group-title="国际频道",Global Fashion Channel
+https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Billiards TV" group-title="国际频道",Billiards TV
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
