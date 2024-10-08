@@ -183,6 +183,10 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="93" tvg-name="内蒙新闻" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="内蒙频道",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-id="94" tvg-name="内蒙经济" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="内蒙频道",内蒙经济
@@ -559,3 +563,58 @@ http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
 https://player4.juyun.tv/camera/103789163.m3u8
 #EXTINF:-1 tvg-id="286" tvg-name="云游-皇城相府" tvg-logo="" group-title="山西频道",云游-皇城相府
 https://player4.juyun.tv/camera/107852129.m3u8
+
+
+#EXTINF:-1 tvg-id="287" tvg-name="湖南爱晚" tvg-logo="" group-title="湖南频道",湖南爱晚
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+#EXTINF:-1 tvg-id="288" tvg-name="湖南视剧" tvg-logo="" group-title="湖南频道",湖南视剧
+http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+#EXTINF:-1 tvg-id="289" tvg-name="湖南电影" tvg-logo="" group-title="湖南频道",湖南电影
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+#EXTINF:-1 tvg-id="290" tvg-name="湖南都市" tvg-logo="" group-title="湖南频道",湖南都市
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+#EXTINF:-1 tvg-id="291" tvg-name="湖南经视" tvg-logo="" group-title="湖南频道",湖南经视
+http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+#EXTINF:-1 tvg-id="292" tvg-name="湖南国际" tvg-logo="" group-title="湖南频道",湖南国际
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+#EXTINF:-1 tvg-id="293" tvg-name="湖南娱乐" tvg-logo="" group-title="湖南频道",湖南娱乐
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+#EXTINF:-1 tvg-id="294" tvg-name="湖南教育" tvg-logo="" group-title="湖南频道",湖南教育
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+
+#EXTINF:-1 tvg-id="295" tvg-name="河北鹿泉一套" tvg-logo="" group-title="河北频道",河北鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+#EXTINF:-1 tvg-id="296" tvg-name="邯郸科技教育" tvg-logo="" group-title="河北频道",邯郸科技教育
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:-1 tvg-id="297" tvg-name="承德旅游文化" tvg-logo="" group-title="河北频道",承德旅游文化
+https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+#EXTINF:-1 tvg-id="298" tvg-name="定州生活" tvg-logo="" group-title="河北频道",定州生活频道
+https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+#EXTINF:-1 tvg-id="299" tvg-name="定州新闻综合" tvg-logo="" group-title="河北频道",定州新闻综合
+https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+#EXTINF:-1 tvg-id="300" tvg-name="丰宁综合" tvg-logo="" group-title="河北频道",丰宁综合
+https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
+#EXTINF:-1 tvg-id="301" tvg-name="邯郸公共" tvg-logo="" group-title="河北频道",邯郸公共
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 tvg-id="302" tvg-name="邯郸新闻" tvg-logo="" group-title="河北频道",邯郸新闻
+https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+#EXTINF:-1 tvg-id="303" tvg-name="涞水新闻" tvg-logo="" group-title="河北频道",涞水新闻
+https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="平泉影视" tvg-logo="" group-title="河北频道",平泉影视
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="平泉综合" tvg-logo="" group-title="河北频道",平泉综合
+https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+
+
+#EXTINF:-1 tvg-id="306" tvg-name="烟台公共" tvg-logo="" group-title="山东频道",烟台公共
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="烟台经济科技" tvg-logo="" group-title="山东频道",烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="烟台新闻综合" tvg-logo="" group-title="山东频道",烟台新闻综合
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+#EXTINF:-1 tvg-id="309" tvg-name="烟台影视" tvg-logo="" group-title="山东频道",烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="枣庄教育" tvg-logo="" group-title="山东频道",枣庄教育
+http://stream.zztvzd.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="311" tvg-name="枣庄新闻综合" tvg-logo="" group-title="山东频道",枣庄新闻综合
+http://stream.zztvzd.com/1/sd/live.m3u8
