@@ -362,3 +362,8 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="少儿频道",CCTV-14 少儿
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="再次重逢的世界" tvg-logo="" group-title="热播电视剧",再次重逢的世界
+https://cdn23.fhdv.net/?path=fps/202409/zaicizhongfengdeshijie/01/index&name=%E5%86%8D%E6%AC%A1%E9%87%8D%E9%80%A2%E7%9A%84%E4%B8%96%E7%95%8C%C2%B7%E7%AC%AC01%E9%9B%86
