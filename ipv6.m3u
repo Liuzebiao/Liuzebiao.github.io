@@ -364,6 +364,8 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="少儿频道",CCTV-14 少儿
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="Kids TV" group-title="少儿频道",Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 
 
@@ -371,8 +373,6 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-name="CNA" group-title="国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="CNN Fast" group-title="国际频道",CNN Fast
-https://i.mjh.nz/discovery-ptcn.m3u8
 #EXTINF:-1 tvg-name="CBC News" group-title="国际频道",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 tvg-name="NBC News Now" group-title="国际频道",NBC News Now
@@ -381,8 +381,6 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 tvg-name="WionNews" group-title="国际频道",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="Sky News" group-title="国际频道",Sky News
-https://i.mjh.nz/sky-news-now.m3u8
 #EXTINF:-1 tvg-name="AXS TV Now" group-title="国际频道",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax" group-title="国际频道",Newsmax
@@ -419,14 +417,12 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" group-title="国际频道",BBC Earth
 https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
-#EXTINF:-1 tvg-name="History" group-title="国际频道",History
+#EXTINF:-1 tvg-name="History 365" group-title="国际频道",History 365
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 tvg-name="TED Conference" group-title="国际频道",TED Conference
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ted Talks " group-title="国际频道",Ted Talks 
 https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="The Graham Norton Show" group-title="国际频道",The Graham Norton Show
-https://i.mjh.nz/discovery-ptgn.m3u8
 #EXTINF:-1 tvg-name="Mytime" group-title="国际频道",Mytime
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="La LA Life " group-title="国际频道",La LA Life 
@@ -453,16 +449,12 @@ https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Food" group-title="国际频道",Food
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MovieSphere" group-title="国际频道",MovieSphere
-https://i.mjh.nz/discovery-ptms.m3u8
 #EXTINF:-1 tvg-name="Rakuten Viki " group-title="国际频道",Rakuten Viki 
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Shows " group-title="国际频道",Rakuten TV Shows 
 https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten Comedy" group-title="国际频道",Rakuten Comedy
 https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten Action" group-title="国际频道",Rakuten Action
-https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten Thriller" group-title="国际频道",Rakuten Thriller
 https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten British Films" group-title="国际频道",Rakuten British Films
