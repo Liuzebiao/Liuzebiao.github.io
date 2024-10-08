@@ -509,9 +509,9 @@ https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="255" tvg-name="V2BEAT" tvg-logo="" group-title="国际频道",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="256" tvg-name="晋城公共" tvg-logo="" group-title="山西频道",晋城公共
+#EXTINF:-1 tvg-id="256" tvg-name="晋城文化生活" tvg-logo="" group-title="山西频道",晋城文化生活
 http://live.jinnews.com.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="257" tvg-name="晋城公共" tvg-logo="" group-title="山西频道",晋城公共
+#EXTINF:-1 tvg-id="257" tvg-name="晋城文化生活" tvg-logo="" group-title="山西频道",晋城文化生活
 https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8
 #EXTINF:-1 tvg-id="258" tvg-name="晋城新闻" tvg-logo="" group-title="山西频道",晋城新闻
 http://live.jinnews.com.cn/xwzh/sd/live.m3u8
@@ -521,6 +521,6 @@ https://epg.pw/stream/bef72ce4c2d1d83126bb2af671ce94763a3457869acca885d2eaaf7c5c
 http://jzdb.jztvnews.com:83/live/mount_for_ts/jzgg.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="晋中公共" tvg-logo="" group-title="山西频道",晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-#EXTINF:-1 tvg-id="262" tvg-name="晋中新闻" tvg-logo="" group-title="山西频道",晋中新闻
+#EXTINF:-1 tvg-id="262" tvg-name="晋中综合" tvg-logo="" group-title="山西频道",晋中综合
 http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
-#EXTINF:-1 tvg-id="262" tvg-name="晋中新闻" tvg-logo="" group-title="山西频道",晋中新闻
+#EXTINF:-1 tvg-id="263" tvg-name="晋中综合" tvg-logo="" group-title="山西频道",晋中综合
