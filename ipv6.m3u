@@ -757,10 +757,16 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+http://146.56.153.245:20121/bysid/258
 #EXTINF:-1 tvg-id="29" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+http://146.56.153.245:20121/bysid/257
 #EXTINF:-1 tvg-id="30" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="31" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -1908,10 +1914,50 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://anren.live/HK/BSJDUFpB.m3u8
 #EXTINF:-1  tvg-name="香港卫视"  group-title="港澳台频道",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1  tvg-name="东森新闻"  group-title="港澳台频道",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1  tvg-name="东森新闻"  group-title="港澳台频道",东森新闻
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
+#EXTINF:-1  tvg-name="东森财经新闻"  group-title="港澳台频道",东森财经新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1  tvg-name="中视新闻"  group-title="港澳台频道",中视新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv074
+#EXTINF:-1  tvg-name="翡翠台"  group-title="港澳台频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1  tvg-name="翡翠台"  group-title="港澳台频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1  tvg-name="翡翠台"  group-title="港澳台频道",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1  tvg-name="翡翠台"  group-title="港澳台频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1  tvg-name="明珠台"  group-title="港澳台频道",明珠台
+http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+#EXTINF:-1  tvg-name="中天新闻"  group-title="港澳台频道",中天新闻
+,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
+#EXTINF:-1  tvg-name="中天娱乐"  group-title="港澳台频道",中天娱乐
+,http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1  tvg-name="亚洲卫视"  group-title="港澳台频道",亚洲卫视
+https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0$IPV4
+#EXTINF:-1  tvg-name="TVB星河"  group-title="港澳台频道",TVB星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1  tvg-name="TVB星河"  group-title="港澳台频道",TVB星河
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1  tvg-name="TVB星河"  group-title="港澳台频道",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1  tvg-name="千禧经典台"  group-title="港澳台频道",千禧经典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1  tvg-name="民视台湾台"  group-title="港澳台频道",民视台湾台
+http://litv.zapi.us.kg/?id=4gtv-4gtv001
 #EXTINF:-1  tvg-name="民视新闻台" group-title="港澳台频道",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1  tvg-name="民视影剧台" group-title="港澳台频道",民视影剧台
+http://litv.zapi.us.kg/?id=litv-ftv09
 #EXTINF:-1  tvg-name="人间卫视" group-title="港澳台频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1  tvg-name="番薯台" group-title="港澳台频道",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1  tvg-name="番薯台" group-title="港澳台频道",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="香港佛陀" group-title="港澳台频道",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="香港佛陀"  group-title="港澳台频道",香港佛陀
@@ -1924,6 +1970,18 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1  tvg-name="耀才财经" group-title="港澳台频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:11 group-title="AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+
+#EXTINF:18 group-title="AKTV" tvg-id="aktv/null-16" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠台(泰国)
+http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+
+#EXTINF:19 group-title="AKTV" tvg-id="aktv/null-17" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+
+#EXTINF:20 group-title="AKTV" tvg-id="aktv/null-11" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 
 
 
@@ -2215,6 +2273,8 @@ http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="咪咕直播1" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕直播1
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1,tvg-name="咪咕运动" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕运动",
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 
 
 #EXTINF:-1 tvg-id="156" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
